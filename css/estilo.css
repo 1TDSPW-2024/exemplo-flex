@@ -4,7 +4,48 @@
     box-sizing: border-box;
 }
 
-a{
+
+
+
+/* Exemplos Gridlayout */
+
+
+
+
+
+
+
+/* Exemplos Gridlayout */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* a{
   text-decoration: none;
 }
 
@@ -39,11 +80,11 @@ a{
   &:hover{
     background-color:#514e4e;
   }
-}
+} */
 
 /* GALERIA DE IMAGENS */
 
-.pets figure img{
+/* .pets figure img{
   max-width: 100%;
   display: block;
 }
@@ -67,7 +108,7 @@ a{
   flex-basis: 200px;
   margin: 10px;
 }
-
+ */
 
 
 
