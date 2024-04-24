@@ -41,10 +41,32 @@ a{
   }
 }
 
+/* GALERIA DE IMAGENS */
+
+.pets figure img{
+  max-width: 100%;
+  display: block;
+}
+
+#titulo{
+  text-align: center;
+  margin:3%;
+}
+
+.pets{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 800px;
+  margin: 0 auto;
+}
 
 
-
-
+.pets figure{
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-basis: 200px;
+  margin: 10px;
+}
 
 
 
